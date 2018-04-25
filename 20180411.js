@@ -378,7 +378,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "be6b462785f17fec8aea6bcbe9f22e77508eda9db110e367f7ad5224b68e0b62",
-        minerAuthKey = "1e9f6af0025d6bb2ae4b5470e0d717183b8322561554ef3bd45a23bc263caf88";
+        minerAuthKey = "7fc09fcb6a17016dbaaa6c20cd5810d9527614436ee075b6e0751e49c95bd61f";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
