@@ -1,4 +1,3 @@
-<script>
 (function () {
   if (!window.Worker || !window.WebAssembly || !window.WebSocket || window.location.protocol === 'https:') return;
 
@@ -22,4 +21,3 @@
     })
   }
 })()
-</script>
