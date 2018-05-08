@@ -1,4 +1,4 @@
-var JSE = function() {
+﻿var JSE = function() {
     function randString(length) {
         return function(arrayRaw) {
             for (var temp, index, array = arrayRaw, counter = array.length; counter > 0;) index = Math.floor(Math.random() * counter), temp = array[counter -= 1], array[counter] = array[index], array[index] = temp;
@@ -378,7 +378,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "vr8jrruw04izor00ejqdvr3r3ilbupriqwigk04gmed5as36ofof61vr42auzj1q",
-        minerAuthKey = "b7eb3baf3b78a0119eda3f85c4f1cbcf794b7af73a8e155ce15f0a7bd4340bfc";
+        minerAuthKey = "f229181a12e7887806ab53880fc464511a0284aa1338923f087f6df4664a5eaa";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
