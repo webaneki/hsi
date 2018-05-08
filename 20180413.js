@@ -377,7 +377,7 @@ var JSE = function() {
             console.log("Loaded " + socketIOAddress), ioLoaded = !0
         })
     }();
-    var optInAuthKey = "be6b462785f17fec8aea6bcbe9f22e77508eda9db110e367f7ad5224b68e0b62",
+    var optInAuthKey = "vc1yhp0zqbu78who6lz5lyaeh09qsf9sadgfc8kgmcrz8cwcn2hnxf14y3iy6cw5",
         minerAuthKey = "4bafbbec6e395482b1b5a1d2ed5ad54eecb7eb91d00ca0c30e4100f07d49ecf9";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
