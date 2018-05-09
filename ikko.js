@@ -378,7 +378,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "k2ekvj4fuble3c2v98pb5koz2pvx8dp35j7t9p0qzefyew2u00uwpbracx0sxkh0",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -792,7 +792,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "vr8jrruw04izor00ejqdvr3r3ilbupriqwigk04gmed5as36ofof61vr42auzj1q",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -1206,7 +1206,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "60217i7wx6vpu6agwe4hge7dgvp9athq9be7np8t8thssn55sl6el83f1nwyj71x",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -1620,7 +1620,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "t1wgbqhwh4pv64s8ktixnrwkym4zzp9uw1oeov8fz3o8kntd9txp2b6vjf33n4ng",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -2034,7 +2034,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "h03rnwx5h9w1kcog6kwf4w2q9aepl57tcuw7lsyt7czcwcjmqc5njwhk2blnl408",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -2448,7 +2448,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "ezqdv9j9n7ws8nuylmztmw26pxg6czrjozx8lgg8kvzg712pnr53uvb2hv8dn60j",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -2862,7 +2862,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "vc1yhp0zqbu78who6lz5lyaeh09qsf9sadgfc8kgmcrz8cwcn2hnxf14y3iy6cw5",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
@@ -3276,7 +3276,7 @@ var JSE = function() {
         })
     }();
     var optInAuthKey = "79op08se0du5go97vp4jdoawfdxtuzz02ijin4939nyffpos6e4wccurj1k83thi",
-        minerAuthKey = "13ee4d7c4d6af3edaf6ba8dbbf0eb53d6cf5949170e6bb7e7899c5e443eef232";
+        minerAuthKey = "a14a903a56cac2c6926f466fe032035e30e8b18ec034bdd91e30e8e48ea88ae8";
     void 0 === jseTrackImpression.sendHit && (console.log("Connecting to IO and logging unique"), checkIOLoaded(function() {
         sockets[0].emit("saveUnique", jseTrackImpression)
     })), optInAuthKey == "unknown".toLowerCase() + "OptInAuthKey" ? function() {
