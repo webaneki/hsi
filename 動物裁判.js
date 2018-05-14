@@ -1,0 +1,14 @@
+await Delay(2000);
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
+ClickByTag("button");
