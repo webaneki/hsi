@@ -8,4 +8,4 @@ if(location.search.indexOf('reloaded=yes') < 0){
 	// SET THE ONE TIME AUTOMATIC PAGE RELOAD TIME TO 5000 MILISECONDS (5 SECONDS):
 	setTimeout(function(){window.location.href = loc + hash;}, 1000);}
 */
-setTimeout(function() {location.reload();},10000);
+setTimeout(function() {location.reload();},12000);
